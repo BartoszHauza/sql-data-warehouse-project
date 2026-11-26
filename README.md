@@ -37,9 +37,6 @@ An end-to-end data warehouse in **SQL Server**: raw **CRM** and **ERP** CSV file
 ├── datasets/    # source CSV files (CRM, ERP)
 ├── docs/        # architecture diagram
 ├── scripts/     # bronze / silver / gold SQL scripts
+├── tests/     # testing silver layer
 └── README.md
 ```
-
-## 👤 Author
-
-**Your Name** · [LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
