@@ -24,13 +24,6 @@ An end-to-end data warehouse in **SQL Server**: raw **CRM** and **ERP** CSV file
 
 `SQL Server` · `T-SQL` · `Stored procedures` · `ETL / ELT pipelines` · `Medallion architecture` · `Data cleansing & modelling` · `Star schema` · `Power BI`
 
-## 🚀 Quick start
-
-1. Create the database and the `bronze`, `silver`, `gold` schemas (`scripts/init_database.sql`).
-2. Put the CRM and ERP CSV files in the source folder and adjust the paths if needed.
-3. Run the load procedures in order: Bronze, then Silver.
-4. Query the Gold views or connect Power BI.
-
 ## 📁 Repository structure
 
 ```
