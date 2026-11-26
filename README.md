@@ -2,7 +2,7 @@
 
 An end-to-end data warehouse in **SQL Server**: raw **CRM** and **ERP** CSV files go through **Bronze → Silver → Gold** layers and end up as business-ready views for **BI reporting, ad-hoc SQL and machine learning**.
 
-![Data architecture](docs/data_architecture.png)
+![Data architecture](docs/architecture.png)
 
 ## 🔄 How it works
 
